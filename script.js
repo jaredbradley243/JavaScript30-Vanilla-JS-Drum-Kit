@@ -28,4 +28,4 @@ function playAudio(e){
   const keys = document.querySelectorAll('.key');
   keys.forEach(key => key.addEventListener('transitionend', removeTransition));
   window.addEventListener('keydown', playAudio);
-  keys.forEach(key => key.addEventListener('touchstart', playOnTouch));
+  keys.forEach(key => key.addEventListener('click', playOnTouch));
