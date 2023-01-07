@@ -42,7 +42,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 2. How to use audio files in a web application
 
 ### Customizations
-* I added mobile functionality to the Drum Kit using the touchstart event and the dataset property of each button. Original tutorial did not cover mobile functionality.
+* I added mobile functionality to the Drum Kit using the <b>touchstart event</b> and the <b>dataset property</b> of each button. The original tutorial did not cover mobile functionality.
 
 ### What could be improved
 - [ ] How to solve mobile zoom issue when buttons are pressed.
