@@ -34,7 +34,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 ## Summary
 
 ### What I learned
-1. How to dynamically manipulate the DOM using JavaScript Events, including <b><i>transitionend</i></b>, <b><i>keydown</i></b>, and <b><i>touchstart</i></b>
+1. How to dynamically manipulate the DOM using JavaScript Events, including <b><i>transitionend</i></b>, <b><i>keydown</i></b>, <b><i>touchstart</i></b>, and <b><i>click</i></b>
   * Event Handlers may be registered using three different approaches: 
   * <b>Inline event handler</b> directly in HTML (not recommended for readability and debugging purposes)
   * <b>'Unobtrusive' event handler</b> in JavaScript using the 'on_event' property of DOM objects.
@@ -42,7 +42,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 2. How to use audio files in a web application
 
 ### Customizations
-* I added mobile functionality to the Drum Kit using the <b>touchstart event</b> and the <b>dataset property</b> of each button. The original tutorial did not cover mobile functionality.
+* I added mobile functionality to the Drum Kit using the <b>click event</b> and the <b>dataset property</b> of each button. The original tutorial did not cover mobile functionality.
 
 ### What could be improved
 - [ ] How to solve mobile zoom issue when buttons are pressed.
