@@ -38,7 +38,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
   * Event Handlers may be registered using three different approaches: 
   <br>- Inline event handler directly in HTML (not recommended for readability and debugging purposes)
   <br>- 'Unobtrusive' events handler in JavaScript using the 'on_event' property of DOM objects 
-  <br>&emsp; (<i><b>object.<on_event> = function(){}</b></i>)
+  <br>&emsp;(<i><b>object.<on_event> = function(){}</b></i>)
   <br>- Event Listeners in JavaScript, which allow for multiple handlers for the same event. 
 2. How to use audio files in a web application
 
