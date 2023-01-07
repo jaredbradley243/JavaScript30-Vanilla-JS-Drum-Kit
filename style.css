@@ -32,7 +32,6 @@ body,html {
   color: white;
   background: rgba(145,133,133,0.4);
   text-shadow: 0 0 .5rem black;
-  touch-action: manipulation;
 }
 
 .playing {
