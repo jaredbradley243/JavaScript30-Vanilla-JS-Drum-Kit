@@ -43,7 +43,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 
 ### Customizations
 * The original tutorial did not cover mobile functionality.
-* I added mobile functionality to the Drum Kit using the <b>click event</b> and the <b>dataset property</b> of each button.
+* I extended the Drum Kit functionality to mobile devices using the <b>click event</b> and the <b>dataset property</b> of each button.
 * I disabled double-tap to zoom using the <b><i>touch-action property</i></b> in CSS for a better user experience.
 
 ### What could be improved
