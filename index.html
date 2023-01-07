@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>JS Drum Kit</title>
   <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
 
@@ -57,7 +58,7 @@
   <audio data-key="75" src="sounds/tom.wav"></audio>
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
-<script>
+<!-- <script>
   function playAudio(e){
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
@@ -87,7 +88,7 @@
   window.addEventListener('keydown', playAudio);
   keys.forEach(key => key.addEventListener('touchstart', playOnTouch));
 
-</script>
+</script> -->
 
 
 </body>
