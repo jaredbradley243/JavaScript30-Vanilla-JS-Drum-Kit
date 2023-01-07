@@ -39,7 +39,6 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
   * <b>Inline event handler</b> directly in HTML (not recommended for readability and debugging purposes)
   * <b>'Unobtrusive' event handler</b> in JavaScript using the 'on_event' property of DOM objects (<i><b>object.<on_event> = function(){}</b></i>)
   * <b>Event Listeners</b> in JavaScript, which allow for multiple handlers for the same event.
- <br>
 2. How to use audio files in a web application
 
 ### Customizations
