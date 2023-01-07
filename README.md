@@ -37,7 +37,7 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 1. How to dynamically manipulate the DOM using JavaScript Events, including <b><i>transitionend</i></b>, <b><i>keydown</i></b>, and <b><i>touchstart</i></b>
   * Event Handlers may be registered using three different approaches: 
   * <b>Inline event handler</b> directly in HTML (not recommended for readability and debugging purposes)
-  * <b>'Unobtrusive' event handler</b> in JavaScript using the 'on_event' property of DOM objects (<i><b>object.<on_event> = function(){}</b></i>)
+  * <b>'Unobtrusive' event handler</b> in JavaScript using the 'on_event' property of DOM objects.
   * <b>Event Listeners</b> in JavaScript, which allow for multiple handlers for the same event.
 2. How to use audio files in a web application
 
