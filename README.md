@@ -48,4 +48,4 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 
 ### What could be improved
   - [ ] ~~Solve mobile zoom issue when buttons are pressed.~~
-  - [ ] <b>UPDATE:</b> Mobile zoom issue has been solved.
+  - [ ] <b>UPDATE:</b> Mobile zoom issue has been solved using <b><i>touch-action property</i></b>.
