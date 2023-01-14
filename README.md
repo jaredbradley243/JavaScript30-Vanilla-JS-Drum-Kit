@@ -47,4 +47,5 @@ I created a drum kit using vanilla JavaScript with full functionality on both de
 * I disabled double-tap to zoom using the <b><i>touch-action property</i></b> in CSS for a better user experience.
 
 ### What could be improved
-- [ ] How to solve mobile zoom issue when buttons are pressed.
+  - [ ] ~~Solve mobile zoom issue when buttons are pressed.~~
+  - [ ] <b>UPDATE:</b> Mobile zoom issue has been solved.
